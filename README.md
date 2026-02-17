@@ -43,7 +43,7 @@ Each solution includes:
 
 | Category | Solved |
 |----------|--------|
-| SQL      | 0      |
+| SQL      | 10      |
 | Python   | 0      |
 
 (Updated weekly)
